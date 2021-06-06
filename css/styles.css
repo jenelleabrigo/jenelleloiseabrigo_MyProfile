@@ -1,0 +1,57 @@
+body {
+  background-image: linear-gradient(to bottom, rgba(41, 130, 139, 0.10),  rgba(41, 130, 139, 0.50));
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Spectral', sans-serif;
+  margin: 0;
+}
+
+ .logo-start {
+  margin: 0;
+  padding: 1%;
+  background-color: rgba(41, 130, 139, 0.40);
+}
+
+.jla, .brigo {
+  display: inline-block;
+  padding: 0;
+  margin: 0;
+  color: rgba(41, 130, 139, 1);
+}
+
+.jla {
+  font-size: 200%;
+  font-style: italic;
+}
+
+.brigo {
+  font-size: 100%;
+}
+
+
+.intro-start {
+  margin: 10% 10% 24%;
+  width: 30%;
+  line-height: 2;
+}
+
+
+.start {
+  background-color: rgba(41, 130, 139, 0.4);
+  width: auto;
+  padding: 0.5%;
+  border-radius: 5%;
+}
+
+.start h1 {
+  text-align: center;
+}
+
+.start h1 a:link, .start h1 a:visited  {
+  color: #fff;
+  text-decoration: none;
+}
+
+.start h1 a:active, .start h1 a:hover {
+  color: rgba(41, 130, 139, 0.7);
+}
